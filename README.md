@@ -61,7 +61,3 @@ ros2 run gazebo_ros spawn_entity.py \
 ## IMU Data Collection & Analysis
 
 You can use `rosbag2` to record `/imu/data` and analyze it using the provided Python scripts for extraction and visualization.
-
-## License
-
-MIT License
